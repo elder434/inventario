@@ -1,0 +1,14 @@
+1/node_modules
+1/public/hot
+1/public/storage
+1/storage/*.key
+1/vendor
+.env
+.env.backup
+1.phpunit.result.cache
+1Homestead.json
+1Homestead.yaml
+1npm-debug.log
+1yarn-error.log
+1/.idea
+1/.vscode
